@@ -1,0 +1,9 @@
+{
+  "name": "220240170063-submission",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "Logging Middleware",
+    "Frontend Test Submission"
+  ]
+}
